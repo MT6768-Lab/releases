@@ -1,14 +1,15 @@
+
 # Latest ROMs
-1. [crDroid](#)
-    1. [lancelot](#)
-    2. [merlinx](#)
-2. [Cherish OS](#)
-    1. [lancelot](#)
-        1. [Vanilla](#)
-        2. [GApps](#)
-    2. [merlinx](#)
-        1. [GApps](#)
-        2. [Vanilla](#)
+1. [crDroid](#crdroid)
+    1. [lancelot](#lancelot)
+    2. [merlinx](#merlinx)
+2. [Cherish OS](#cherish-os)
+    1. [lancelot](#lancelot-1)
+        1. [Vanilla](#vanilla)
+        2. [GApps](#gapps)
+    2. [merlinx](#merlinx-1)
+        1. [Vanilla](#vanilla-1)
+        2. [GApps](#gapps-1)
 
 # ROMs
 ## CrDroid
@@ -23,7 +24,7 @@ ROM info:
 ### lancelot:
 
 > Download (Vanilla):
-> * Github Releases
+> * [Github Releases](https://github.com/MT6768-Lab/releases/releases/download/crdroid-13.0-v9.5/crDroidAndroid-13.0-20230609-lancelot-v9.5.zip)
 > * [void.cat](https://void.cat/BGuwRwN9kTEbpruLbodhr6)
 > * [Telegram](https://t.me/marat2509_roms/2?single) 
 > 
@@ -34,7 +35,7 @@ ROM info:
 ### merlinx:
 
 > Download (Vanilla):
-> * Github Releases
+> * [Github Releases](https://github.com/MT6768-Lab/releases/releases/download/crdroid-13.0-v9.5/crDroidAndroid-13.0-20230609-merlinx-v9.5.zip)
 > * [void.cat](https://void.cat/F3GVqLXRSgC2W18jHC2qDE)
 > * [Telegram](https://t.me/marat2509_roms/3)
 > 
@@ -52,23 +53,23 @@ ROM info:
 * Maintainer: @marat2509
 
 ### lancelot:
-> **Vanilla:**
+> #### **Vanilla:**
 > 
 > Download:
-> * Github Releases
+> * [Github Releases](https://github.com/MT6768-Lab/releases/releases/download/cherish-13.0-4.8/Cherish-OS-v4.8-20230609-2256-lancelot-OFFICIAL-Vanilla.zip)
 > * [void.cat](https://void.cat/4p7sFnZ6s322dGmWjBGsdx)
 > * [Telegram](https://t.me/marat2509_roms/4)
 > 
 > File info:
-> * SHA256: > `78b73c73611ecc07f7f7a497060851eae900a86ec3041d4fb8b2d122c81dbf26`
+> * SHA256: `78b73c73611ecc07f7f7a497060851eae900a86ec3041d4fb8b2d122c81dbf26`
 > * File name: `Cherish-OS-v4.8-20230609-2256-lancelot-OFFICIAL-Vanilla.zip`
 
 <br/>
 
-> **GApps:**
+> #### **GApps:**
 > 
 > Download:
-> * Github Releases
+> * [Github Releases](https://github.com/MT6768-Lab/releases/releases/download/cherish-13.0-4.8/Cherish-OS-v4.8-20230609-2321-lancelot-OFFICIAL-GApps.zip)
 > * [void.cat](https://void.cat/U7nkHm8kGMrnzUx4L9YXhE)
 > * [Telegram](https://t.me/marat2509_roms/5) 
 > 
@@ -78,10 +79,10 @@ ROM info:
 
 ### merlinx:
 
-> **Vanilla:**
+> #### **Vanilla:**
 > 
 > Download:
-> * Github Releases
+> * [Github Releases](https://github.com/MT6768-Lab/releases/releases/download/cherish-13.0-4.8/Cherish-OS-v4.8-20230610-0007-merlinx-UNOFFICIAL-Vanilla.zip)
 > * [void.cat](https://void.cat/hc6trZFqp69pJTBfNRGCs)
 > * [Telegram](https://t.me/marat2509_roms/6)
 > 
@@ -91,10 +92,10 @@ ROM info:
 
 <br/>
 
-> **GApps:**
+> #### **GApps:**
 > 
 > Download:
-> * Github Releases
+> * [Github Releases](https://github.com/MT6768-Lab/releases/releases/download/cherish-13.0-4.8/Cherish-OS-v4.8-20230610-0025-merlinx-UNOFFICIAL-GApps.zip)
 > * [void.cat](https://void.cat/HrNnTvZCnAGnG4xKZSAQWJ)
 > * [Telegram](https://t.me/marat2509_roms/7) 
 > 
